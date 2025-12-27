@@ -1,4 +1,4 @@
-# 🧠 100 AI Engineer Notebooks for Healthcare
+# 🧠 100 AI Engineer Notebooks for Healthcare : See PDF 100_notebook_AI_detail for details about data used and more 
 Complete learning program in Artificial Intelligence applied to healthcare, from linear regression to transformers, using PyTorch.
 
 ## 📖 About the Project
